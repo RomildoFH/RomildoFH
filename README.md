@@ -67,6 +67,4 @@ To get in touch with me, please use one of the options below
 <a href="https://github.com/RomildoFH">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RomildoFH&show_icons=true&&theme=chartuse-dark" />
 </a>
-<a href="https://github.com/RomildoFH">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomildoFH)](https://github.com/anuraghazra/github-readme-stats)
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomildoFH)](https://github.com/anuraghazra/github-re/a>
