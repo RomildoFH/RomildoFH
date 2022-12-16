@@ -68,5 +68,5 @@ To get in touch with me, please use one of the options below
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RomildoFH&show_icons=true&&theme=chartuse-dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RomildoFH&show_icons=true&&theme=chartuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RomildoFH&repo=github-readme-stats" />
 </a>
