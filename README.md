@@ -64,4 +64,4 @@ To get in touch with me, please use one of the options below
 
 ## Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomildoFH&show_icons=true&count_private=true&theme=chartreuse-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomildoFH=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomildoFH&show_icons=true&count_private=true&theme=chartreuse-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomildoFH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
