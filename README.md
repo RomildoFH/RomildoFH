@@ -23,10 +23,10 @@ My name is **Romildo Silva**.
 
 I'm civil engineer :construction: and after some time of thinking and visiting some dreams of the past, I rediscovered myself and decide to stop to construct buildings :department_store: and begin to  construct software and web applications :computer: :iphone:.
 
-:video_game: I love to play games
-:movie_camera: Watching some movies and series on my free time
-:heavy_check_mark: Concluded Front-end module of web development
-:books: Studying Back-end module at Trybe
+:video_game: I love to play games<br>
+:movie_camera: Watching some movies and series on my free time<br>
+:heavy_check_mark: Concluded Front-end module of web development<br>
+:books: Studying Back-end module at Trybe<br>
 
 To get in touch with me, please use one of the options below
 
