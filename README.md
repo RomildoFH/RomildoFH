@@ -1,4 +1,4 @@
-## Hello World! <img src="https://media0.giphy.com/media/jow0htwvROxzepF0UZ/giphy.gif?cid=790b761120190c5df88728dfc6fea10f382abedf9a69d425&rid=giphy.gif&ct=g" />
+## Hello World! <img src="https://media0.giphy.com/media/jow0htwvROxzepF0UZ/giphy.gif?cid=790b761120190c5df88728dfc6fea10f382abedf9a69d425&rid=giphy.gif&ct=g" width="50px" />
 
 ````
 const firstName = 'Romildo';
