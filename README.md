@@ -64,4 +64,4 @@ To get in touch with me, please use one of the options below
 
 ## Status :start:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?RomildoFH=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?romildofh=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
