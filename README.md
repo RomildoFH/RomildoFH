@@ -59,9 +59,9 @@ To get in touch with me, please use one of the options below
 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
-##
 :construction: More Coming :construction:
+##
 
-## Status :start:
+## Status
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?romildofh=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomildoFH&show_icons=true&count_private=true&theme=buefy)
