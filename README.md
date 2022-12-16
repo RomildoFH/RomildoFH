@@ -23,6 +23,11 @@ My name is **Romildo Silva**.
 
 I'm civil engineer :construction: and after some time of thinking and visiting some dreams of the past, I rediscovered myself and decide to stop to construct buildings :department_store: and begin to  construct software and web applications :computer: :iphone:.
 
+:video_game: I love to play games
+:movie_camera: Watching some movies and series on my free time
+:heavy_check_mark: Concluded Front-end module of web development
+:books: Studying Back-end module at Trybe
+
 To get in touch with me, please use one of the options below
 
 <a href="mailto:romildo.silvafilho1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -58,10 +63,6 @@ To get in touch with me, please use one of the options below
 ### Versioning
 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://camo.githubusercontent.com/69a8eab46810b62de859aa2c16750ec4a73a027cfec48ad55419c8ad6ee62821/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f6c6f676f3d676974687562266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" /> 
-
-----
-:construction: More Coming :construction:
-----
 
 ## Status
 
