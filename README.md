@@ -59,8 +59,9 @@ To get in touch with me, please use one of the options below
 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://camo.githubusercontent.com/69a8eab46810b62de859aa2c16750ec4a73a027cfec48ad55419c8ad6ee62821/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f6c6f676f3d676974687562266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" /> 
 
+----
 :construction: More Coming :construction:
-##
+----
 
 ## Status
 
