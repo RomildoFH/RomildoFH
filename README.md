@@ -11,7 +11,7 @@ const printHello = (firstName, lastName) => {
 console.log(printHello());
 
 ```
-This's amazing see you here. I'm Romildo Silva, feel free to look around and call me if you need.
+It's amazing see you here. I'm Romildo Silva, feel free to look around and call me if you need.
 ```
 ````
 
@@ -21,7 +21,7 @@ My name is **Romildo Silva**.
 
 :earth_americas: I'm from Brazil
 
-I'm civil engineer :construction: and after some time of thinking and visiting some dreams of the past, I discovered myself and decide to stop to construct buildings :department_store: and begin to  construct software and web applicaticons :computer: :iphone:.
+I'm civil engineer :construction: and after some time of thinking and visiting some dreams of the past, I rediscovered myself and decide to stop to construct buildings :department_store: and begin to  construct software and web applications :computer: :iphone:.
 
 To get in touch with me, please use one of the options below
 
