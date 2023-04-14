@@ -28,6 +28,8 @@ I'm civil engineer :construction: and after some time of thinking and visiting s
 :heavy_check_mark: Concluded Front-end module of web development<br>
 :books: Studying Back-end module at Trybe<br>
 
+At this moment I'm looking for a opportunity to work as a full-stack developer jr.
+
 To get in touch with me, please use one of the options below
 
 <a href="mailto:romildo.silvafilho1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
