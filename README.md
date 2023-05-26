@@ -21,12 +21,12 @@ My name is **Romildo Silva**.
 
 :earth_americas: I'm from Brazil
 
-I'm civil engineer :construction: and after some time of thinking and visiting some dreams of the past, I rediscovered myself and decide to stop to construct buildings :department_store: and begin to  construct software and web applications :computer: :iphone:.
+I'm a full-stack developer, coming from a civil and safety engineering career. Around of one year ago, I decided to make something that I love to do, so I decided to study web development, and I'm completely delight with all I learned until now and full of hope to work in great projects to change the life of people and companies results :computer: :iphone:.
 
-:video_game: I love to play games<br>
-:movie_camera: Watching some movies and series on my free time<br>
-:heavy_check_mark: Concluded Front-end module of web development<br>
-:books: Studying Back-end module at Trybe<br>
+🎮: I love to play games<br>
+🖥️: Playing with code on my free time<br>
+✔️: Concluded Front-end and Back-end modules<br>
+📚: Studying computer science at Trybe<br>
 
 At this moment I'm looking for a opportunity to work as a full-stack developer jr.
 
