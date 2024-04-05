@@ -21,14 +21,13 @@ My name is **Romildo Silva**.
 
 :earth_americas: I'm from Brazil
 
-I'm a full-stack developer, coming from a civil and safety engineering career. Around of one year ago, I decided to make something that I love to do, so I decided to study web development, and I'm completely delight with all I learned until now and full of hope to work in great projects to change the life of people and companies results :computer: :iphone:.
+I'm a full-stack developer with focus in web (reactjs) and mobile (react native / express js) applications.
 
 🎮: I love to play games<br>
-🖥️: Playing with code on my free time<br>
-✔️: Concluded Front-end and Back-end modules<br>
-📚: Studying computer science at Trybe<br>
+✔️: Full-stack development at Trybe (1500 hours)<br>
+📚: Always studing, currentily looking at C#<br>
 
-At this moment I'm looking for a opportunity to work as a full-stack developer jr.
+Now a days I'm working in a software house where I'm responsible for develop back-end (MySQL and Sequelize) and front-end (react js) for web and mobile (express js).
 
 To get in touch with me, please use one of the options below
 
