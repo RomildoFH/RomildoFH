@@ -21,7 +21,9 @@ My name is **Romildo Silva**.
 
 :earth_americas: I'm from Brazil
 
-I'm a full-stack developer with focus in web (reactjs) and mobile (react native / express js) applications.
+I'm a full-stack developer with focus in web (reactjs) and mobile (react native / express js) applications
+<br />
+You can see my portfolio <a href="https://thisromildo.vercel.app/">here</a>
 
 🎮: I love to play games<br>
 ✔️: Full-stack development at Trybe (1500 hours)<br>
